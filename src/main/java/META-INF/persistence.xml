@@ -6,7 +6,7 @@
 	      <property name="hibernate.transaction.jta.platform" value="org.hibernate.service.jta.platform.internal.JBossAppServerJtaPlatform"/>
 	      
 	      <property name="hibernate.ogm.datastore.database" value="javaee7"/>
-	      <property name="hibernate.ogm.datastore.host" value="172.30.21.30:27017"/>
+	      <property name="hibernate.ogm.datastore.host" value="localhost:27017"/>
 	      <property name="hibernate.ogm.datastore.port" value="27017"/>
 	      <property name="hibernate.ogm.datastore.provider" value="MONGODB"/>
 	      <property name="hibernate.ogm.datastore.create_database" value="true"/>
